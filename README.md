@@ -16,12 +16,12 @@ Este espaço não é apenas um backup de arquivos, mas um mapa da minha evoluç�
 
 Para manter a sanidade e facilitar a navegação, o repositório está organizado da seguinte forma:
   
-> | 📁 [Ferramentas Essenciais](./Ferramentas%20Essenciais/)
->   
-> | 📁 [Fundamentos de Programação](./Fundamentos%20de%20Programação/)
+> | 📁 [Ferramentas Essenciais](./Ferramentas%20Essenciais/)  
 >   
 > > | 📁 [Banco de Dados](./Fundamentos%20de%20Programação/Banco%20de%20Dados/)  
 > > > | 📁 [SQL](./Fundamentos%20de%20Programação/SQL/)  
+>   
+> | 📁 [Fundamentos de Programação](./Fundamentos%20de%20Programação/)
 > 
 > | 📁 [Desenvolvimento Backend](./Desenvolvimento%20Backend/)
 >   
