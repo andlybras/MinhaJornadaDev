@@ -16,11 +16,18 @@ Este espaço não é apenas um backup de arquivos, mas um mapa da minha evoluç�
 
 Para manter a sanidade e facilitar a navegação, o repositório está organizado da seguinte forma:
   
-| 📁 [Ferramentas Essenciais](./Ferramentas%20Essenciais/)  
-| 📁 [Fundamentos de Programação](./Fundamentos%20de%20Programação/)  
-| 📁 [Desenvolvimento Backend](./Desenvolvimento%20Backend/)  
-| 📁 [Desenvolvimento Frontend](./Desenvolvimento%20Frontend/)  
-| 📁 [DevOps e Cloud](./DevOps%20e%20Cloud/)  
+> | 📁 [Ferramentas Essenciais](./Ferramentas%20Essenciais/)
+>   
+> | 📁 [Fundamentos de Programação](./Fundamentos%20de%20Programação/)
+>   
+> > | 📁 [Banco de Dados](./Fundamentos%20de%20Programação/Banco%20de%20Dados/)  
+> > > | 📁 [SQL](./Fundamentos%20de%20Programação/SQL/)  
+> 
+> | 📁 [Desenvolvimento Backend](./Desenvolvimento%20Backend/)
+>   
+> | 📁 [Desenvolvimento Frontend](./Desenvolvimento%20Frontend/)  
+> 
+> | 📁 [DevOps e Cloud](./DevOps%20e%20Cloud/)  
 
 
 ## 📈 A Jornada Continua...
