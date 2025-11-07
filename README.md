@@ -29,9 +29,6 @@ Para manter a sanidade e facilitar a navegação, o repositório está organizad
 > > > | 📁 [Java](./Desenvolvimento%20Backend/Linguagens%20de%20Programação/Java/)    
 >  
 > | 📁 [Desenvolvimento Frontend](./Desenvolvimento%20Frontend/)  
-> 
-> | 📁 [DevOps e Cloud](./DevOps%20e%20Cloud/)  
-
 
 ## 📈 A Jornada Continua...
  
